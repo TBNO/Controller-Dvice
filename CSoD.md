@@ -53,7 +53,7 @@ Server -> Device
 
 链接：
 
-[端单元及其寻址](http//:www/baidu.com)
+[端单元及其寻址](https://github.com/yulincoder/Controller-Dvice/blob/master/%E8%AE%BE%E5%A4%87%E6%8A%BD%E8%B1%A1%E6%A8%A1%E5%9E%8B.md)
 
 具体协议格式如下:
 1. 服务端获取端单元状态, `${unitid}`表示一个端单元地址
